@@ -1,5 +1,5 @@
 # delta-demo
-this is a demo for git and github class. heisenberg
+this is a demo for git and github class. HEISENBERG
 
 # Teacher 
 shradha khapra
